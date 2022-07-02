@@ -1,4 +1,4 @@
-package practice.containsDuplicate;
+package practice.june30.containsDuplicate;
 
 import java.util.HashSet;
 

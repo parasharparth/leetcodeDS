@@ -1,4 +1,4 @@
-package practice.containsDuplicate;
+package practice.june30.containsDuplicate;
 
 public class Solution1 {
 
