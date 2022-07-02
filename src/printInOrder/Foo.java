@@ -35,4 +35,9 @@ public class Foo {
         // printThird.run() outputs "third". Do not change or remove this line.
         printThird.run();
     }
+
+    public static void main(String args[])
+    {
+
+    }
 }
